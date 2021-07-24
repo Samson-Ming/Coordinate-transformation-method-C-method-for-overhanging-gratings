@@ -16,11 +16,11 @@ If not, see <https://www.gnu.org/licenses/>.
 
 CMCV-overhang is intended for non-commercial use only.
 If any output of this code or of a modified vesion of the current code is published, please refer to:
-[1] L. Li et al., 1999, "Rigorous and efficient grating-analysis method made easy for optical engineers", AO.
-[2]P. Plumey et. al., 1997, JOSA A.
-[2] X. Ming,......
+[1] X. Ming, L. Sun, "Simple reformulation of the coordinate transformation method for gratings with a vertical facet or overhanging profile," Appl. Opt. 60, 4305–4314 (2021).
+[2] L. Li, J. Chandezon, G. Granet, and J. P. Plumey, “Rigorous and efficient grating-analysis method made easy for optical engineers,” Appl. Opt. 38, 304–313 (1999).
+[3] J. P. Plumey, B. Guizal, and J. Chandezon, “Coordinate transformation method as applied to asymmetric gratings with vertical facets,” J. Opt. Soc. Am. A 14, 610–617 (1997).
 
 All the detailes regarding the method can be found in these publications.
-If you have any questions or find any bugs, please write to mxsin2007@163.com.
+If you have any difficulty or find any bug, please write to mxsin2007@163.com directly.
 %}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
