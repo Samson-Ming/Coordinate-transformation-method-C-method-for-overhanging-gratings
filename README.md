@@ -6,5 +6,5 @@ Most of the guidance is included in the code as comments, and a detailed standal
 For more details and examples, or if you are interested in using this freeware for your own research, please kindly cite the paper below:
 
 
-Ming, Xianshun, and Liqun Sun. "Simple reformulation of the coordinate transformation method for gratings with a vertical facet or overhanging profile." Applied Optics 60.15 (2021): 4305-4314.
+Xianshun Ming, and Liqun Sun. "Simple reformulation of the coordinate transformation method for gratings with a vertical facet or overhanging profile." Applied Optics 60.15 (2021): 4305-4314.
 https://doi.org/10.1364/AO.423209
