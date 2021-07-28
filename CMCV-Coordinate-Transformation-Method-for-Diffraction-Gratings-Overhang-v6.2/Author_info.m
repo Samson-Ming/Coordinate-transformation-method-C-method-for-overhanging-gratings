@@ -1,9 +1,9 @@
 %% Author information of CMCV-overhang
 %{
 Matlab implementation of the Coordinate Transformation Method (Chandezon Method,C method) given in
-L. Li et al., 1999, title "Rigorous and efficient grating-analysis method made easy for optical engineers".
-This is a free software with part of the initial source code written by Nikolay Komarevskiy and Josef Navratil
-seperately from GitHub, and assembled and modified by Xianshun Ming with new function specially for overhang gratings.
+X. Ming et al., 2021, title "Simple reformulation of the coordinate transformation method for gratings with a vertical facet or overhanging profile".
+This is a free software with part of the initial source code for ordinary C method written by Nikolay Komarevskiy and Josef Navratil
+seperately from GitHub, and is assembled and modified by Xianshun Ming with new functions specially for overhang gratings.
 We may call this freeware CMCV-overhang: Coordinate Transformation Method by Change of Variables for overhang gratings.
 
 you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
