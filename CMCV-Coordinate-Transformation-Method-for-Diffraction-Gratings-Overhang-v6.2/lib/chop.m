@@ -1,4 +1,6 @@
 function [c,options] = chop(x,options)
+% This code is forked from "N. J. Higham and S. Pranesh, “Simulating low precision floating-point
+% arithmetic,” SIAM J. Sci. Comput. 41, C585–C602 (2019)".
 %CHOP    Round matrix elements to lower precision.
 %   CHOP(X,options) is the matrix obtained by rounding the elements of
 %   the real array X to a lower precision arithmetic with one of several
